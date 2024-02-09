@@ -1,15 +1,3 @@
-import React from 'react'
-
-const ExerciseVideos = () => {
-  return (
-    <div>ExerciseVideos</div>
-  )
-}
-
-export default ExerciseVideos
-
-
-/*
 import React from 'react';
 import { Typography, Box, Stack } from '@mui/material';
 import Loader from './Loader';
@@ -47,4 +35,4 @@ const ExerciseVideos = ({ exerciseVideos, name }) => {
   );
 };
 
-export default ExerciseVideos; */
+export default ExerciseVideos;
